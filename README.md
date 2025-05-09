@@ -25,23 +25,6 @@ Welcome to the **PEFT (Parameter-Efficient Fine-Tuning)** project! This reposito
 
 ---
 
-# 🧠 **Finetuning on 5B Parameters with Microsoft's Phi-2 – LLM Fine-Tuning**
-
-Welcome to the **PEFT (Parameter-Efficient Fine-Tuning)** project! This repository is designed to efficiently fine-tune the **Microsoft Phi-2** model with **5 billion parameters** on a custom dataset using the power of **LoRA (Low-Rank Adaptation)** and Hugging Face’s **Transformers** library.
-
----
-
-## 📌 **Project Goals**
-
-- Fine-tune **Microsoft Phi-2 (5B parameters)** on a domain-specific/custom dataset.
-- Leverage **LoRA (Low-Rank Adaptation)** for memory- and compute-efficient fine-tuning.
-- Use **PEFT** and **Hugging Face Transformers** libraries to streamline and optimize the fine-tuning process.
-
----
-
-## 📁 **Directory Structure**
-
-
 
 ## 📁 Directory Structure
 
@@ -55,15 +38,24 @@ Welcome to the **PEFT (Parameter-Efficient Fine-Tuning)** project! This reposito
 ```
 
 ---
+---
 
-## ⚙️ Tech Stack
+## ⚙️ **Tech Stack**
 
-- 🏗 **Model**: Microsoft Phi-2 (5B)
+- 🏗 **Model**: Microsoft Phi-2 (5B parameters)
 - 🧩 **Fine-Tuning Strategy**: LoRA (via `peft` library)
 - 🧠 **Frameworks**: Hugging Face Transformers, Datasets, Accelerate
-- 🚀 **Training**: Optimized for GPU environments (A100 recommended)
+- 🚀 **Training**: Optimized for **GPU environments** (NVIDIA A100 recommended)
 
 ---
+
+## 📝 **Installation**
+
+```bash
+git clone https://github.com/yourusername/Finetuning-on-5b-parameters-on-Custom_data_set-Microsoft-phi-.git
+cd Finetuning-on-5b-parameters-on-Custom_data_set-Microsoft-phi-
+pip install -r requirements.txt
+
 
 ## 📝 Installation
 
