@@ -13,6 +13,35 @@ Welcome to the **PEFT (Parameter-Efficient Fine-Tuning)** project! This reposito
 - Employ **PEFT** and **Hugging Face Transformers** libraries to streamline the process.
 
 ---
+<!-- README.md -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=🚀+Finetuning+on+5B+Parameters;💻+Fine-Tuning+Microsoft+Phi-2;⚙️+PEFT+%7C+LoRA+%7C+Transformers" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0Gqjs0y0iXc5Yw0s/giphy.gif" width="350" alt="finetuning gif" />
+</p>
+
+---
+
+# 🧠 **Finetuning on 5B Parameters with Microsoft's Phi-2 – LLM Fine-Tuning**
+
+Welcome to the **PEFT (Parameter-Efficient Fine-Tuning)** project! This repository is designed to efficiently fine-tune the **Microsoft Phi-2** model with **5 billion parameters** on a custom dataset using the power of **LoRA (Low-Rank Adaptation)** and Hugging Face’s **Transformers** library.
+
+---
+
+## 📌 **Project Goals**
+
+- Fine-tune **Microsoft Phi-2 (5B parameters)** on a domain-specific/custom dataset.
+- Leverage **LoRA (Low-Rank Adaptation)** for memory- and compute-efficient fine-tuning.
+- Use **PEFT** and **Hugging Face Transformers** libraries to streamline and optimize the fine-tuning process.
+
+---
+
+## 📁 **Directory Structure**
+
+
 
 ## 📁 Directory Structure
 
